@@ -1,0 +1,13 @@
+C:\Users\SKOCH\source\repos\LAB$\LAB4Service\bin\Debug\LAB4Service.dll.config
+C:\Users\SKOCH\source\repos\LAB$\LAB4Service\bin\Debug\LAB4Service.dll
+C:\Users\SKOCH\source\repos\LAB$\LAB4Service\bin\Debug\LAB4Service.pdb
+C:\Users\SKOCH\source\repos\LAB$\LAB4Service\obj\Debug\LAB4Service.csproj.CoreCompileInputs.cache
+C:\Users\SKOCH\source\repos\LAB$\LAB4Service\obj\Debug\LAB4Service.dll
+C:\Users\SKOCH\source\repos\LAB$\LAB4Service\obj\Debug\LAB4Service.pdb
+C:\Users\SKOCH\Desktop\lab5\LAB4-master\Lab4\LAB4Service\bin\Debug\LAB4Service.dll.config
+C:\Users\SKOCH\Desktop\lab5\LAB4-master\Lab4\LAB4Service\bin\Debug\LAB4Service.dll
+C:\Users\SKOCH\Desktop\lab5\LAB4-master\Lab4\LAB4Service\bin\Debug\LAB4Service.pdb
+C:\Users\SKOCH\Desktop\lab5\LAB4-master\Lab4\LAB4Service\obj\Debug\LAB4Service.csprojResolveAssemblyReference.cache
+C:\Users\SKOCH\Desktop\lab5\LAB4-master\Lab4\LAB4Service\obj\Debug\LAB4Service.csproj.CoreCompileInputs.cache
+C:\Users\SKOCH\Desktop\lab5\LAB4-master\Lab4\LAB4Service\obj\Debug\LAB4Service.dll
+C:\Users\SKOCH\Desktop\lab5\LAB4-master\Lab4\LAB4Service\obj\Debug\LAB4Service.pdb
