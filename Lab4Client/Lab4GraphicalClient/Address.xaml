@@ -1,0 +1,14 @@
+﻿<Window x:Class="Lab4GraphicalClient.Address"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4GraphicalClient"
+        mc:Ignorable="d"
+        Title="Address" Height="100" Width="300">
+    <Grid>
+        <Label Content="Input IP address + port:" HorizontalAlignment="Left" Margin="20,0,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="Addr" HorizontalAlignment="Left" Height="23" Margin="20,31,0,0" TextWrapping="Wrap" Text="127.0.0.1:282" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <Button Name="Connection" Content="Connect" HorizontalAlignment="Left" Margin="197,31,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="Button_Click"/>
+    </Grid>
+</Window>
